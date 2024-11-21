@@ -3,7 +3,7 @@
 - 🔭 Experienced Full Stack Engineer with 10+ years of expertise in designing, developing, and deploying web applications.
 - 👍 Proven expertise in system testing, involving process development, automated testing, diagnostics, and root-cause identification.
 - 😉 Committed about staying up-to-date with the latest trends and best practices, and continuously expanding my skills to tackle complex challenges.
-- 📫 How to reach me **paulhay@gmail.com**
+- 📫 How to reach me **paulhay125@gmail.com**
 
 🏆 GitHub Statistics
 <p align="center">
